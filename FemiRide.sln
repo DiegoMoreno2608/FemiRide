@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FemiRide.Api", "FemiRide.Api\FemiRide.Api.csproj", "{BA7A0A78-589A-4F37-8D29-519C051EE77C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FemiRide.Application", "FemiRide.Application\FemiRide.Application.csproj", "{7E58701D-95C8-49AC-8DA5-E097D637FCE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FemiRide.Domain", "FemiRide.Domain\FemiRide.Domain.csproj", "{9B2A093C-9BA2-4867-B41A-F2E0C9ECA550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FemiRide.Infrastructure", "FemiRide.Infrastructure\FemiRide.Infrastructure.csproj", "{06222AAA-09D6-452F-A72D-5E812DBC8589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FemiRide.Persistence", "FemiRide.Persistence\FemiRide.Persistence.csproj", "{237A5E4A-8E0C-4A2E-B87A-40A8FEF8740F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA7A0A78-589A-4F37-8D29-519C051EE77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7A0A78-589A-4F37-8D29-519C051EE77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7A0A78-589A-4F37-8D29-519C051EE77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7A0A78-589A-4F37-8D29-519C051EE77C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E58701D-95C8-49AC-8DA5-E097D637FCE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E58701D-95C8-49AC-8DA5-E097D637FCE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E58701D-95C8-49AC-8DA5-E097D637FCE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E58701D-95C8-49AC-8DA5-E097D637FCE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2A093C-9BA2-4867-B41A-F2E0C9ECA550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2A093C-9BA2-4867-B41A-F2E0C9ECA550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2A093C-9BA2-4867-B41A-F2E0C9ECA550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2A093C-9BA2-4867-B41A-F2E0C9ECA550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06222AAA-09D6-452F-A72D-5E812DBC8589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06222AAA-09D6-452F-A72D-5E812DBC8589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06222AAA-09D6-452F-A72D-5E812DBC8589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06222AAA-09D6-452F-A72D-5E812DBC8589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237A5E4A-8E0C-4A2E-B87A-40A8FEF8740F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237A5E4A-8E0C-4A2E-B87A-40A8FEF8740F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237A5E4A-8E0C-4A2E-B87A-40A8FEF8740F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237A5E4A-8E0C-4A2E-B87A-40A8FEF8740F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

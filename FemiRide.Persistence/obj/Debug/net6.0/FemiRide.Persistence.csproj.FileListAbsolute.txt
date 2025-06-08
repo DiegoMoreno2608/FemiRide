@@ -1,0 +1,17 @@
+E:\Inventario\FemiRide\FemiRide.Persistence\bin\Debug\net6.0\FemiRide.Persistence.deps.json
+E:\Inventario\FemiRide\FemiRide.Persistence\bin\Debug\net6.0\FemiRide.Persistence.runtimeconfig.json
+E:\Inventario\FemiRide\FemiRide.Persistence\bin\Debug\net6.0\FemiRide.Persistence.dll
+E:\Inventario\FemiRide\FemiRide.Persistence\bin\Debug\net6.0\FemiRide.Persistence.pdb
+E:\Inventario\FemiRide\FemiRide.Persistence\bin\Debug\net6.0\FemiRide.Domain.dll
+E:\Inventario\FemiRide\FemiRide.Persistence\bin\Debug\net6.0\FemiRide.Domain.pdb
+E:\Inventario\FemiRide\FemiRide.Persistence\obj\Debug\net6.0\FemiRide.Persistence.csproj.AssemblyReference.cache
+E:\Inventario\FemiRide\FemiRide.Persistence\obj\Debug\net6.0\FemiRide.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Inventario\FemiRide\FemiRide.Persistence\obj\Debug\net6.0\FemiRide.Persistence.AssemblyInfoInputs.cache
+E:\Inventario\FemiRide\FemiRide.Persistence\obj\Debug\net6.0\FemiRide.Persistence.AssemblyInfo.cs
+E:\Inventario\FemiRide\FemiRide.Persistence\obj\Debug\net6.0\FemiRide.Persistence.csproj.CoreCompileInputs.cache
+E:\Inventario\FemiRide\FemiRide.Persistence\obj\Debug\net6.0\FemiRide.92D7A1EE.Up2Date
+E:\Inventario\FemiRide\FemiRide.Persistence\obj\Debug\net6.0\FemiRide.Persistence.dll
+E:\Inventario\FemiRide\FemiRide.Persistence\obj\Debug\net6.0\refint\FemiRide.Persistence.dll
+E:\Inventario\FemiRide\FemiRide.Persistence\obj\Debug\net6.0\FemiRide.Persistence.pdb
+E:\Inventario\FemiRide\FemiRide.Persistence\obj\Debug\net6.0\FemiRide.Persistence.genruntimeconfig.cache
+E:\Inventario\FemiRide\FemiRide.Persistence\obj\Debug\net6.0\ref\FemiRide.Persistence.dll

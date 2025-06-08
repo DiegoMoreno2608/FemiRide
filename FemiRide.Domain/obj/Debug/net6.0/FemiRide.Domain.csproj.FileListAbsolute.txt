@@ -1,0 +1,14 @@
+E:\Inventario\FemiRide\FemiRide.Domain\bin\Debug\net6.0\FemiRide.Domain.deps.json
+E:\Inventario\FemiRide\FemiRide.Domain\bin\Debug\net6.0\FemiRide.Domain.runtimeconfig.json
+E:\Inventario\FemiRide\FemiRide.Domain\bin\Debug\net6.0\FemiRide.Domain.dll
+E:\Inventario\FemiRide\FemiRide.Domain\bin\Debug\net6.0\FemiRide.Domain.pdb
+E:\Inventario\FemiRide\FemiRide.Domain\obj\Debug\net6.0\FemiRide.Domain.csproj.AssemblyReference.cache
+E:\Inventario\FemiRide\FemiRide.Domain\obj\Debug\net6.0\FemiRide.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Inventario\FemiRide\FemiRide.Domain\obj\Debug\net6.0\FemiRide.Domain.AssemblyInfoInputs.cache
+E:\Inventario\FemiRide\FemiRide.Domain\obj\Debug\net6.0\FemiRide.Domain.AssemblyInfo.cs
+E:\Inventario\FemiRide\FemiRide.Domain\obj\Debug\net6.0\FemiRide.Domain.csproj.CoreCompileInputs.cache
+E:\Inventario\FemiRide\FemiRide.Domain\obj\Debug\net6.0\FemiRide.Domain.dll
+E:\Inventario\FemiRide\FemiRide.Domain\obj\Debug\net6.0\refint\FemiRide.Domain.dll
+E:\Inventario\FemiRide\FemiRide.Domain\obj\Debug\net6.0\FemiRide.Domain.pdb
+E:\Inventario\FemiRide\FemiRide.Domain\obj\Debug\net6.0\FemiRide.Domain.genruntimeconfig.cache
+E:\Inventario\FemiRide\FemiRide.Domain\obj\Debug\net6.0\ref\FemiRide.Domain.dll

@@ -1,0 +1,17 @@
+E:\Inventario\FemiRide\FemiRide.Application\bin\Debug\net6.0\FemiRide.Application.deps.json
+E:\Inventario\FemiRide\FemiRide.Application\bin\Debug\net6.0\FemiRide.Application.runtimeconfig.json
+E:\Inventario\FemiRide\FemiRide.Application\bin\Debug\net6.0\FemiRide.Application.dll
+E:\Inventario\FemiRide\FemiRide.Application\bin\Debug\net6.0\FemiRide.Application.pdb
+E:\Inventario\FemiRide\FemiRide.Application\bin\Debug\net6.0\FemiRide.Domain.dll
+E:\Inventario\FemiRide\FemiRide.Application\bin\Debug\net6.0\FemiRide.Domain.pdb
+E:\Inventario\FemiRide\FemiRide.Application\obj\Debug\net6.0\FemiRide.Application.csproj.AssemblyReference.cache
+E:\Inventario\FemiRide\FemiRide.Application\obj\Debug\net6.0\FemiRide.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Inventario\FemiRide\FemiRide.Application\obj\Debug\net6.0\FemiRide.Application.AssemblyInfoInputs.cache
+E:\Inventario\FemiRide\FemiRide.Application\obj\Debug\net6.0\FemiRide.Application.AssemblyInfo.cs
+E:\Inventario\FemiRide\FemiRide.Application\obj\Debug\net6.0\FemiRide.Application.csproj.CoreCompileInputs.cache
+E:\Inventario\FemiRide\FemiRide.Application\obj\Debug\net6.0\FemiRide.258632C9.Up2Date
+E:\Inventario\FemiRide\FemiRide.Application\obj\Debug\net6.0\FemiRide.Application.dll
+E:\Inventario\FemiRide\FemiRide.Application\obj\Debug\net6.0\refint\FemiRide.Application.dll
+E:\Inventario\FemiRide\FemiRide.Application\obj\Debug\net6.0\FemiRide.Application.pdb
+E:\Inventario\FemiRide\FemiRide.Application\obj\Debug\net6.0\FemiRide.Application.genruntimeconfig.cache
+E:\Inventario\FemiRide\FemiRide.Application\obj\Debug\net6.0\ref\FemiRide.Application.dll

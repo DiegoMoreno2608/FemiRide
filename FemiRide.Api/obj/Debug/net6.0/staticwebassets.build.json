@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3QfZgWoUf9d+GV9YCrj5k83Fc83rm7B8kifq0OfBG4k=",
+  "Source": "FemiRide.Api",
+  "BasePath": "_content/FemiRide.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
